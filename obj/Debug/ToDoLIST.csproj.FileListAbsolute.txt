@@ -1,0 +1,10 @@
+D:\Ab\ToDoLIST\bin\Debug\ToDoLIST.exe.config
+D:\Ab\ToDoLIST\bin\Debug\ToDoLIST.exe
+D:\Ab\ToDoLIST\bin\Debug\ToDoLIST.pdb
+D:\Ab\ToDoLIST\obj\Debug\ToDoLIST.csproj.AssemblyReference.cache
+D:\Ab\ToDoLIST\obj\Debug\ToDoLIST.ToDoListManager.resources
+D:\Ab\ToDoLIST\obj\Debug\ToDoLIST.Properties.Resources.resources
+D:\Ab\ToDoLIST\obj\Debug\ToDoLIST.csproj.GenerateResource.cache
+D:\Ab\ToDoLIST\obj\Debug\ToDoLIST.csproj.CoreCompileInputs.cache
+D:\Ab\ToDoLIST\obj\Debug\ToDoLIST.exe
+D:\Ab\ToDoLIST\obj\Debug\ToDoLIST.pdb
